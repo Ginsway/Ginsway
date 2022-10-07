@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 联系方式：QQ 2173608980，邮箱：ginsway@qq.com
 
 [![Ginsway's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginsway&count_private=true&show_icons=true&theme=merko&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginsway&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 我的置顶仓库
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ginsway&repo=Deuterium&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
