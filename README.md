@@ -15,10 +15,3 @@ You can click the Preview link to take a look at your changes.
 
 [![Ginsway's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginsway&count_private=true&show_icons=true&theme=merko&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginsway&layout=compact&theme=merko&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
-### 我的置顶仓库
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ginsway&repo=Deuterium&show_owner=true&theme=merko)](https://github.com/Ginsway/Deuterium)        
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ginsway&repo=All-The-Create&show_owner=true&theme=merko)](https://github.com/Ginsway/All-The-Create)      
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ginsway&repo=DontStarve3&show_owner=true&theme=merko)](https://github.com/Ginsway/DontStarve3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ginsway&repo=Formula-addition-Fabric&show_owner=true&theme=merko)](https://github.com/Ginsway/Formula-addition-Fabric)
-
